@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "1078856414727",
+    "project_id": "flutter-bulletin-board",
+    "storage_bucket": "flutter-bulletin-board.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1078856414727:android:4467da218925aacfb05ca2",
+        "android_client_info": {
+          "package_name": "com.example.flutter_bulletin_board"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1078856414727-4rccvp3lslqd80l539sc11gaqf07t4lo.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCrbLAGINwV1eWp-YKocPgnBx7Tif4Jirc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1078856414727-4rccvp3lslqd80l539sc11gaqf07t4lo.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
